@@ -1,0 +1,7 @@
+C:\Users\malsh\source\repos\SDAproject1\SDAproject1\bin\Debug\SDAproject1.exe.config
+C:\Users\malsh\source\repos\SDAproject1\SDAproject1\bin\Debug\SDAproject1.exe
+C:\Users\malsh\source\repos\SDAproject1\SDAproject1\bin\Debug\SDAproject1.pdb
+C:\Users\malsh\source\repos\SDAproject1\SDAproject1\obj\Debug\SDAproject1.csproj.AssemblyReference.cache
+C:\Users\malsh\source\repos\SDAproject1\SDAproject1\obj\Debug\SDAproject1.csproj.CoreCompileInputs.cache
+C:\Users\malsh\source\repos\SDAproject1\SDAproject1\obj\Debug\SDAproject1.exe
+C:\Users\malsh\source\repos\SDAproject1\SDAproject1\obj\Debug\SDAproject1.pdb
