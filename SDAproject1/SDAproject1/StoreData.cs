@@ -9,7 +9,7 @@ namespace SDAproject1
         StreamWriter writer;
         public StoreData()
         {
-            path = @"C:\Users\malsh\Desktop\TeacherStoreData.txt";
+            path = @"C:\Users\malsh\source\repos\SDAproject1\SDAproject1\TeacherStoreData.txt";
         }
         public void AddNewItem(int ID, string Teachername, string Clas, string Section)
         {
